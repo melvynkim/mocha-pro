@@ -1,0 +1,17 @@
+{
+    "name": "mocha-pro",
+    "version": "1.0.0",
+    "description": "Jest-like snapshot testing for mocha chai",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/melvynkim/mocha-pro.git"
+    },
+    "keywords": [],
+    "author": "Melvyn Kim <melvynkim@gmail.com>",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/melvynkim/mocha-pro.git/issues"
+    },
+    "homepage": "https://github.com/melvynkim/mocha-pro.git#readme"
+}
