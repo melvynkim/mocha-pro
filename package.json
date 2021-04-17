@@ -1,0 +1,17 @@
+{
+    "name": "mocha-chai-snapshot",
+    "version": "1.0.0",
+    "description": "Hook for chai to get Jest like snapshot testing",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/melvynkim/mocha-pro.git"
+    },
+    "keywords": [],
+    "author": "Melvyn Kim <melvynkim@gmail.com>",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/melvynkim/mocha-pro.git/issues"
+    },
+    "homepage": "https://github.com/melvynkim/mocha-pro.git#readme"
+}
